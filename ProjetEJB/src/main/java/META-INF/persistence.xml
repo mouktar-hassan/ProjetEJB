@@ -17,4 +17,4 @@
     </persistence-unit>
 </persistence>
 
-<!-- le fichier de configuration JPA basé sur la DataSource que nous venons de définir "resource.xml" -->
+<!-- C'est un fichier de configuration JPA basé sur la DataSource("resource.xml") que nous venons de définir à coté. -->

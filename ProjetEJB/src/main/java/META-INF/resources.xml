@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Définissez la source de données à utiliser (un répertoire de /tmp dans notre exemple) avec le fichier  -->
+<!-- Définissez la source de données à utiliser (un répertoire de /tmp dans notre exemple, le driver et l'ensemble 
+d'information pour la connexion) avec le fichier  -->
 <resources>
 
 <Resource id="myTestDataSource" type="javax.sql.DataSource">
